@@ -1,0 +1,7 @@
+        <style>
+            h2{color: red;}
+            strong{color: blue;}
+            .highlight{border: solid; border-color: rgb(0, 255, 0);}
+            #profile{border:solid;
+                     border-color: blueviolet;            
+        </style>
